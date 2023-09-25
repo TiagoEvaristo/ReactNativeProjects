@@ -9,10 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "-": "^0.0.1",
+    "babel-plugin-transform-typescript-metadata": "^0.3.2",
+    "D": "^1.0.0",
     "expo": "~49.0.8",
+    "expo-sqlite": "~11.3.3",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
-    "react-native": "0.72.4"
+    "react-native": "0.72.4",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.3.17"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
